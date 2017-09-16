@@ -1,0 +1,59 @@
+footer {
+	background-color: lightgreen;
+	font-family: Georgia, "Arial", serif;
+}
+
+head {
+	text-align: center;
+	color: #FFD700;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 30pt;
+}
+
+h1 { 
+	text-shadow: 3px 2px darkblue;
+	text-align: center;
+	color: darkblue;
+}
+
+h3 {
+	color: red;
+}
+
+#body1 {
+	align-content: center;
+	background-image: url("roma.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: center center;
+	background-size:cover;
+}
+
+#body2 {
+	align-content: center;
+    background-color: lightgray;
+}
+
+#body3 {
+	align-content: center;
+    background-color: lightyellow;
+}
+
+#table1,td{
+	color: yellow;
+	text-align: center;
+	margin-left: 40%;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+#table2{
+	
+	padding: 5px;
+}
+
+#tr1 {
+	size: 30;
+	font-size: 30px;
+	color: darkred;
+}
